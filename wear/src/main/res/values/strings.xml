@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">WeatherWatch</string>
+    <string name="my_analog_name">Weather Watch</string>
+
+    <string name="title_activity_unit_selection">Temperature Unit</string>
+
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="unit_preference">Unit Preference</string>
+
+    <string name="data_received">Config Data Received</string>
+    <string name="launch_app">SunshineWeather</string>
+
+    <string-array name="unit_options">
+        <item>In Metric</item>
+        <item>In Imperial</item>
+    </string-array>
+</resources>

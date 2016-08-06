@@ -1,0 +1,23 @@
+<manifest package="com.exmple.coderming.app.waerableshared"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Permissions required by the wearable app -->
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        >
+        <activity
+            android:name=".WatchBackgroundColorActivity"
+            android:label="Select Watch Background Color"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="com.coderming.weatherwatch.CONFIG_TEMP_UNIT"/>
+                <category android:name="com.google.android.wearable.watchface.category.COMPANION_CONFIGURATION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

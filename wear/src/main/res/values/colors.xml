@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#180002</color>
+    <color name="background2">#001402</color>
+<!--
+    <color name="background">#04232c</color>
+    <color name="background2">#2e1903</color>
+    <color name="background2">#13010e</color>
+    <color name="background2">#000000</color>
+    <color name="background3">#01011d</color>    -->
+
+    <color name="grey">#808080</color>
+    <color name="shadow">#000000</color>
+    <color name="tint">#01B3E3</color>
+    <color name="needle_default">@color/white</color>
+</resources>
