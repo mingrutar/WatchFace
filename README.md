@@ -1,22 +1,26 @@
-## Udacity P5 project - XYZ Reader ##
-![logo](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/ic_launcher.png?raw=true)
+## Udacity P6 project - Design Android Watch Face of Sunshine app  ##
 
 ### See assignment details at ###
-  https://classroom.udacity.com/nanodegrees/nd801/parts/80113454010/modules/403589875175461/lessons/4035898751239847/concepts/42926534400923#
-
-The screenshots of the original work
-
-![portrait](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/v0-portrait-detail.png?raw=true)
-![detail](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/v0-portrait.png?raw=true)
+  https://classroom.udacity.com/nanodegrees/nd801/parts/80113454012/modules/463237913875463/lessons/4632379138239847/concepts/46425796800923
 
 ### Description of work ###
 
-Redesign the UI to comply with material design paradigm. See screenShots:
+Create watch face shows weather info. The watch face couples with Sunshine phone app. The background color of watch face could be changed by at app. It displays temperature in metric or imperial according to the user selection at Sunshine app. The temperature updates periodically. The display of watch face has normal, ambient and low-energy modes, see screenshots.  
+At Sunshine app, added background color select activity.
 
 ### Screenshots ###
-![Portrait](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/v1-portrait.png?raw=true)
-![portraitDetail](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/v1-portrait2.png?raw=true)
-![image](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/v1-portrait-largeImage.png?raw=true)
-![land](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/v1-landscape-1.png?raw=true)
-![landDetail](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/v1-landscape-detail.png?raw=true)
-![landImage](https://github.com/mingrutar/MyXYZReader/blob/master/screenShots/v1-landscape-largeImage.png?raw=true)
+No weather info because Sunshine has not started yet. ![noinfo](https://github.com/mingrutar/WatchFace/blob/master/screenshots/no_weatherInfo.png?raw=true)
+
+Normal square and round watches
+![sq_brown](https://github.com/mingrutar/WatchFace/blob/master/screenshots/brown_sq_light_cloud.png?raw=true)
+
+![rnd_blue](https://github.com/mingrutar/WatchFace/blob/master/screenshots/blue_snow.png?raw=true)
+
+Ambient mode
+![ambient](https://github.com/mingrutar/WatchFace/blob/master/screenshots/ambient.png?raw=true)
+
+Low energy mode
+![low-energy](https://github.com/mingrutar/WatchFace/blob/master/screenshots/save_mode.png?raw=true)
+
+Watch face background color selecting activity. The design is very basic. Only has dark colors.
+![color_selection](https://github.com/mingrutar/WatchFace/blob/master/screenshots/color_selection.png?raw=true)
