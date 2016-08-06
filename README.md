@@ -9,18 +9,29 @@ Create watch face shows weather info. The watch face couples with Sunshine phone
 At Sunshine app, added background color select activity.
 
 ### Screenshots ###
-No weather info because Sunshine has not started yet. ![noinfo](https://github.com/mingrutar/WatchFace/blob/master/screenshots/no_weatherInfo.png?raw=true)
+
+No weather info because Sunshine has not started yet.
+
+![noinfo](https://github.com/mingrutar/WatchFace/blob/master/screenshots/no_weatherInfo.png?raw=true)
+
 
 Normal square and round watches
+
 ![sq_brown](https://github.com/mingrutar/WatchFace/blob/master/screenshots/brown_sq_light_cloud.png?raw=true)
 
 ![rnd_blue](https://github.com/mingrutar/WatchFace/blob/master/screenshots/blue_snow.png?raw=true)
 
+
 Ambient mode
+
 ![ambient](https://github.com/mingrutar/WatchFace/blob/master/screenshots/ambient.png?raw=true)
 
+
 Low energy mode
+
 ![low-energy](https://github.com/mingrutar/WatchFace/blob/master/screenshots/save_mode.png?raw=true)
 
+
 Watch face background color selecting activity. The design is very basic. Only has dark colors.
+
 ![color_selection](https://github.com/mingrutar/WatchFace/blob/master/screenshots/color_selection.png?raw=true)
